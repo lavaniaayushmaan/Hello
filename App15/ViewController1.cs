@@ -13,7 +13,7 @@ namespace App15
         public override void DidReceiveMemoryWarning()
         {
             base.DidReceiveMemoryWarning();
-
+            string a;
             // Release any cached data, images, etc that aren't in use.
         }
 
